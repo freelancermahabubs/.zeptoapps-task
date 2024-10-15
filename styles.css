@@ -1,0 +1,24 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f9f9f9;
+}
+
+nav {
+    background-color: #1e40af;
+}
+
+button {
+    transition: transform 0.2s ease;
+}
+
+button:hover {
+    transform: scale(1.05);
+}
+
+
+
+#loading {
+    font-size: 20px;
+    font-weight: bold;
+    color: blue;
+}
